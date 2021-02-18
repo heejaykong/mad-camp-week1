@@ -10,7 +10,7 @@
 
 **[전체]**
 
-![첫째](https://user-images.githubusercontent.com/18097984/108346391-ab1a1580-7222-11eb-963e-59f1414110b4.gif)
+<img src="https://user-images.githubusercontent.com/18097984/108346519-d00e8880-7222-11eb-98ca-5676719a30e8.gif" width="35%">
 
 - 앱 아이콘은 오렌지 그림, 앱 이름은 '오렌지:tangerine:'로 표시된다.
 - 앱을 켜면 오렌지 로고가 그려진 스플래시 화면이 먼저 표시된 후 MainActivity로 진입한다.
@@ -18,6 +18,8 @@
 - 상단에 3개의 탭이 표시되고, 각 탭을 터치하거나 좌우로 스와이프하면 탭 간 이동이 가능하다.(ViewPager2 사용)
 
 **[첫 번째 탭]** '연락처' 탭
+
+<img src="https://user-images.githubusercontent.com/18097984/108347428-d2bdad80-7223-11eb-9ee0-24c67ab20ede.gif" width="35%">
 
 - 기기 내 저장된 연락처들을 불러와 목록으로 표시한다. (CardView, RecyclerView 사용)
 - 연락처 검색기능을 사용할 수 있다. 이름을 입력하는 즉시 해당 이름과 일치하는 연락처가 표시된다.
