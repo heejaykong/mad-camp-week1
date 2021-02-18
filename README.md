@@ -31,6 +31,8 @@
 **[두 번째 탭]** '갤러리' 탭
 
 <img src="https://user-images.githubusercontent.com/18097984/108348765-8bd0b780-7225-11eb-8529-1c33d78a0522.gif" width="35%">
+<img src="https://user-images.githubusercontent.com/18097984/108352681-89bd2780-722a-11eb-86d2-ad745eccf661.gif" width="38%">
+
 
 - 미리 저장된 drawable 이미지들을 바둑판식 목록으로 표시한다.(RecyclerView 사용)
 - 상단에는 '사진 찍기' 버튼과 '앨범에서 찾기' 버튼으로 원하는 이미지 썸네일을 화면 상단에 띄울 수 있다.
